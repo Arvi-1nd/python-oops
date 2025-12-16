@@ -1,0 +1,36 @@
+First
+printing the welcome message
+showing Two options
+insert card or cardless Transaction
+
+Second
+if card is inserted
+options deposit, withdraw , check balance
+if deposit:
+Enter card pin
+Enter the amount and show tally
+confirm or cancel and do you wanna add more
+then show the message deposited and message
+ should go to users phone number
+last option do you wanna print the balance or show in display
+if no show in display else print (pdf)
+
+withdraw
+enter card pin
+options savings current
+enter withdraw amount
+show available notes
+100 200 500 
+once confirmed the amount sould be withdrwan
+messaage should be sent to users account
+
+check balance
+enter card pin
+do you wanna show balance in display or print it(pdf)
+
+
+Only thing is if user doesnt have card we need to ask phone number and account number
+all steps are same
+every tanssactions message should be sent and mail also be sent follow backed
+
+before that user should open the account
